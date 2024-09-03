@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/empty_health.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/full_health.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/Score.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/M_Pickup_Health.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Meshes/SM_Pickup_Health.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/M_SolidColor.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/HealthPackMaterial.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/ProjectileMaterial.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Materials/EnemyMaterial.uasset",
+				"/Users/wuxingyao/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/CameraShake.uasset"
+			]
+		}
+	]
+}
